@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configuration>
+		<theme>Standard</theme>
+		<encoding>UTF-8</encoding>
+		<protocol>http</protocol>
+		<documentTitle>Facebook Application</documentTitle>
+		<reportName>Extent Reports</reportName>
+		<testViewChartLocation>bottom</testViewChartLocation>
+	</configuration>
+
+
+</extentreports>
